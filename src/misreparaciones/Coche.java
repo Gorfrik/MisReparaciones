@@ -45,7 +45,7 @@ public class Coche {
              }
             
         } else {
-            System.out.println("Propietario: null");
+            System.out.println("Propietario: nulo");
            
         }
     }
