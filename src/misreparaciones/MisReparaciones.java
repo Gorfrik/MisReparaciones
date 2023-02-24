@@ -21,21 +21,12 @@ public class MisReparaciones {
         
         
         System.out.println("+------------------=MENU=---------------+");
-<<<<<<< HEAD
         System.out.println("|---------------------------|");
         System.out.println("| 1).Dar de alta un coche                |");
         System.out.println("| 2).Ver datos de todos los coches       |");
         System.out.println("| 3).Ver datos de un coche               |");
         System.out.println("| 4).Buscar coche por matricula          |");
         System.out.println("| 5).Dar de alta un propietario          |");
-=======
-        System.out.println("|----------------------------------------|");
-        System.out.println("| 1).Dar de alta un coche.               |");
-        System.out.println("| 2).Ver datos de todos los coches.      |");
-        System.out.println("| 3).Ver datos de un coche.              |");
-        System.out.println("| 4).Buscar coche por matricula.         |");
-        System.out.println("| 5).Dar de alta un propietario.         |");
->>>>>>> ramita
         System.out.println("| 6).Ver datos de todos los propietarios |");
         System.out.println("| 7).Ver datos de un propietario         |");
         System.out.println("| 8).Buscar propietario por dni          |");
