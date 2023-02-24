@@ -17,11 +17,7 @@ public class MisReparaciones {
         
         
         System.out.println();
-<<<<<<< HEAD
         System.out.println("+------------------=MENU=---------------+");
-=======
-        System.out.println("+-----------------=MENU=--------+");
->>>>>>> 99e7fc6 (asd)
         System.out.println("|----------------------------------------|");
         System.out.println("| 1).Dar de alta un coche                |");
         System.out.println("| 2).Ver datos de todos los coches       |");
