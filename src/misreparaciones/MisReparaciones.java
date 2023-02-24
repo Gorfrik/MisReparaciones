@@ -45,6 +45,8 @@ public class MisReparaciones {
         ArrayList<Propietario> propietarios = new ArrayList();
         ArrayList<Reparacion> reparados = new ArrayList();
 
+        
+        
         int caso;
         do {
             MENU();
