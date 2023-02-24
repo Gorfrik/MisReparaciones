@@ -23,6 +23,7 @@ public class Reparacion {
         Scanner sn = new Scanner(System.in);
         Reparacion rep = new Reparacion();
 
+        
         System.out.println("Que dia se realizo la reparacion?");
         rep.dia = sn.next();
         System.out.println("Que hora?");
@@ -55,6 +56,7 @@ public class Reparacion {
         }
         if (not) {
             System.out.println("No se encotro matricula");
+            System.out.println();
         }
     }
 
@@ -67,7 +69,7 @@ public class Reparacion {
                 System.out.println("--Datos del coche--");
                 reparados.get(i).CocheRep.VER_COCHE();
             } else {
-                System.out.println("Coche: null");
+                System.out.println("Coche: nulo");
                 System.out.println("Propietario: null");
             }
         }
