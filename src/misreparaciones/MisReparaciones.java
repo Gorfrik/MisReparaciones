@@ -19,7 +19,7 @@ public class MisReparaciones {
         System.out.println();
 
         System.out.println("+------------------=MENU=---------------+");
-        System.out.println("|----------------------------------------|");
+        System.out.println("|---------------------------|");
         System.out.println("| 1).Dar de alta un coche                |");
         System.out.println("| 2).Ver datos de todos los coches       |");
         System.out.println("| 3).Ver datos de un coche               |");
@@ -33,7 +33,7 @@ public class MisReparaciones {
         System.out.println("| 11).Ver reparaciones de un coche       |");
         System.out.println("| 12).Reparar coche                      |");
         System.out.println("| 13).Salir                              |");
-        System.out.println("+----------------------------------------+");
+        System.out.println("+------------------------+");
     }
 
     public static void main(String[] args) {
