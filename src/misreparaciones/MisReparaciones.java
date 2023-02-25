@@ -21,18 +21,20 @@ public class MisReparaciones {
         
         System.out.println("");
         System.out.println("+-------------=MENU=------------+");
+        System.out.println("asdfasdfasdfasdfasdfasd"
+                + "");
         System.out.println("| 1).Dar de alta un coche.                |");
-        System.out.println("| 2).Ver datos de todos los coches.       |");
+        System.out.println("| 2).Ver datoasdfasds de todos los coches.       |");
         System.out.println("| 3).Ver datos de un coche.               |");
         System.out.println("| 4).Buscar coche por matricula.          |");
-        System.out.println("| 5).Dar de alta un propietario.          |");
-        System.out.println("| 6).Ver datos de todos los propietarios. |");
+        System.out.println("| 5).Dar de altasdfasdfa un propietario.          |");
+        System.out.println("| 6).Verasdfas datos de todos los propietarios. |");
         System.out.println("| 7).Ver datos de un propietario.         |");
         System.out.println("| 8).Buscar propietario por dni.          |");
         System.out.println("| 9).Asignar un propietario.              |");
-        System.out.println("| 10).Ver todas las reparaciones.         |");
+        System.out.println("| 10).Ver todaasdfasds las reparaciones.         |");
         System.out.println("| 11).Ver reparaciones de un coche.       |");
-        System.out.println("| 12).Reparar coche.                      |");
+        System.out.println("| 12).Reparar cdasdfche.                      |");
         System.out.println("| 13).Salir.                              |");
         System.out.println("+------------------------------+");
     }
